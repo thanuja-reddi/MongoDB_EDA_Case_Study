@@ -203,9 +203,7 @@ This project is licensed under the MIT License.
 
 # Author
 
-**Bahadursha A V L Sainadh**
-
-Assistant Professor
+**Reddi Thanuja**
 
 Department of Computer Science and Engineering (Artificial Intelligence)
 
